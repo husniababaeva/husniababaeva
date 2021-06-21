@@ -15,25 +15,25 @@
 
 ### Languages/Frameworks/Tools
 
-[![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
+[![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/husniababaeva)](https://github.com/nasirmovlamov)
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=node.js&link=https://github.com/husniababaeva](https://github.com/husniababaeva)
 
-[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![ReactRouter](https://img.shields.io/badge/-ReactRouter-black?style=for-the-badge&logo=react-router&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
 <br/>
 
-[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=for-the-badge&logo=insomnia&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![Github](https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
 <br/>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
-[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov)
-[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/nasirmovlamov)](https://github.com/nasirmovlamov) 
+[![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
+[![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=visual-studio-code&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
+[![SASS](https://img.shields.io/badge/-Sass-black?style=for-the-badge&logo=sass&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
+[![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
+[![MaterialUI](https://img.shields.io/badge/-MaterialUi-black?style=for-the-badge&logo=material-ui&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
 <br/>
 
 <ul>
