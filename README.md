@@ -43,3 +43,6 @@
  <h3> Enjoys<h3>
  <li> Research / Astronomy / Reading </li> 
 </ul>
+  <div>
+  ![Snake animation](https://github.com/fabiolealsc/fabiolealsc/blob/output/github-contribution-grid-snake.svg)
+  </div>
