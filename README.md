@@ -1,5 +1,5 @@
  <h1 align="center">Hi there! 👋, I'm Husnia Babaeva</h1>
-<h2 align="center" >Junior Frontend Developer </h2>
+<h2 align="center" >Junior Data Analyst</h2>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="mailto:husnia.babaeva@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
