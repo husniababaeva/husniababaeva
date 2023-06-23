@@ -13,7 +13,7 @@
 
 ### Languages/Frameworks/Tools
 
-[![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=javascript&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
+[![Javascript](https://img.shields.io/badge/-MsSQL-black?style=for-the-badge&logo=javascript&link=https://github.com/husniababaeva)](https://github.com/husniababaeva)
 
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
 [![Redux](https://img.shields.io/badge/-Redux-black?style=for-the-badge&logo=redux&link=https://github.com/husniababaeva)](https://github.com/husniababaeva) 
