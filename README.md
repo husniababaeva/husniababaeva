@@ -1,13 +1,9 @@
- <h1 align="center">Hi there! 👋, I'm Husnia Babaeva</h1>
+ <h1 align="center">Hi there! 👋, I'm Husniyya</h1>
 <h2 align="center" >Junior Data Analyst</h2>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="mailto:husnia.babaeva@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 </p>
-
-<div align="center">
- <img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=husniababaeva&layout=compact&theme=onedark" alt="husniababaeva" />
-</div>
 
 <br/>
 
